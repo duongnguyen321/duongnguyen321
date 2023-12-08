@@ -1,12 +1,12 @@
-# [![HELLO!](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)](https://duong.vercel.app) Hello, I'm Duong ... 💚
+# [![HELLO!](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)](https://ndng.net) Hello, I'm Duong ... 💚
 
-📑Duong: - 😎  Welcome to my Github. - All about me is here 💁🏼‍♂️ [About Me](https://duong.vercel.app).
+📑Duong: - 😎  Welcome to my Github. - All about me is here 💁🏼‍♂️ [About Me](https://ndng.net).
 
 🌎 Folow me on: ⤵️
 
 [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/duongnguyen321)
 
-[![chess](assets/chess.png) - ![billard](assets/bi.png) - ![beer](assets/beer.png) - ![rubik](assets/rubik.png) - ![code](assets/code.png) - ![chess](assets/chess.png) - ![billard](assets/bi.png) - ![beer](assets/beer.png) - ![rubik](assets/rubik.png) - ![code](assets/code.png) - ![chess](assets/chess.png) - ![billard](assets/bi.png) - ![beer](assets/beer.png) - ![rubik](assets/rubik.png) - ![code](assets/code.png) - ![chess](assets/chess.png) - ![billard](assets/bi.png) - ![beer](assets/beer.png) - ![rubik](assets/rubik.png) - ![code](assets/code.png) - ![chess](assets/chess.png) - ![billard](assets/bi.png) - ![beer](assets/beer.png) - ![rubik](assets/rubik.png) - ![code](assets/code.png)](https://duong.vercel.app)
+[![chess](assets/chess.png) - ![billard](assets/bi.png) - ![beer](assets/beer.png) - ![rubik](assets/rubik.png) - ![code](assets/code.png) - ![chess](assets/chess.png) - ![billard](assets/bi.png) - ![beer](assets/beer.png) - ![rubik](assets/rubik.png) - ![code](assets/code.png) - ![chess](assets/chess.png) - ![billard](assets/bi.png) - ![beer](assets/beer.png) - ![rubik](assets/rubik.png) - ![code](assets/code.png) - ![chess](assets/chess.png) - ![billard](assets/bi.png) - ![beer](assets/beer.png) - ![rubik](assets/rubik.png) - ![code](assets/code.png) - ![chess](assets/chess.png) - ![billard](assets/bi.png) - ![beer](assets/beer.png) - ![rubik](assets/rubik.png) - ![code](assets/code.png)](https://ndng.net)
 
 ⭐🚀 GitHub Statistics
 
